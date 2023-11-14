@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 66,
+  "articles": [
+  {
+  "source": {
+  "id": "techradar",
+  "name": "TechRadar"
+  },
+  "author": null,
+  "title": "Gaming",
+  "description": "The latest Gaming breaking news, comment, reviews and features from the experts at TechRadar",
+  "url": "https://www.techradar.com/gaming",
+  "urlToImage": null,
+  "publishedAt": "2023-11-12T14:07:26.4479203Z",
+  "content": "TechRadar is part of Future US Inc, an international media group and leading digital publisher. Visit our corporate site.\r\n©\r\nFuture US, Inc. Full 7th Floor, 130 West 42nd Street,\r\nNew York,\r\nNY 1003… [+1 chars]"
+  },
+  {
+  "source": {
+  "id": "techradar",
+  "name": "TechRadar"
+  },
+  "author": null,
+  "title": "Tablets",
+  "description": "The latest Tablets breaking news, comment, reviews and features from the experts at TechRadar",
+  "url": "https://www.techradar.com/tablets",
+  "urlToImage": null,
+  "publishedAt": "2023-11-12T14:07:25.6981075Z",
+  "content": "TechRadar is part of Future US Inc, an international media group and leading digital publisher. Visit our corporate site.\r\n©\r\nFuture US, Inc. Full 7th Floor, 130 West 42nd Street,\r\nNew York,\r\nNY 1003… [+1 chars]"
+  },
+  {
+  "source": {
+  "id": "cbc-news",
+  "name": "CBC News"
+  },
+  "author": "CBC News",
+  "title": "Canada is set to pump more oil and gas than ever, despite the alarming realities of climate change | CBC News",
+  "description": "Canada is among a group of top fossil fuel-producing countries on pace to extract more oil and gas than would be consistent with agreed-upon targets designed to limit global warming, according to a new report released by the United Nations.",
+  "url": "http://www.cbc.ca/news/climate/canada-climate-fossil-fuel-production-report-1.7020988",
+  "urlToImage": "https://i.cbc.ca/1.7021027.1699407168!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/oil-pumpjack-20230918.jpg",
+  "publishedAt": "2023-11-12T13:37:22.7452393Z",
+  "content": "Canada is among a group of top fossil fuel-producing countries on pace to extract more oil and gas than would be consistent with agreed-upon international targets designed to limit global warming, ac… [+6215 chars]"
+  },
+  {
+  "source": {
+  "id": "cbc-news",
+  "name": "CBC News"
+  },
+  "author": "CBC News",
+  "title": "ANALYSIS | Could the Liberals' carbon tax troubles light a fire under the move toward heat pumps? | CBC News",
+  "description": "Whatever else the Liberal government's carbon tax contortions have done, they may have boosted the cause of energy efficiency — particularly for low-income households. And there are now calls for the Trudeau government to go even further.",
+  "url": "http://www.cbc.ca/news/politics/carbon-tax-heat-pumps-trudeau-wherry-analysis-1.7020190",
+  "urlToImage": "https://i.cbc.ca/1.6918745.1690411079!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/heat-pump.jpg",
+  "publishedAt": "2023-11-12T13:37:21.9798055Z",
+  "content": "Even as Mark Carney publicly disagreed last week with the Liberal government's decision to exempt home heating oil from the federal carbon tax  he told a climate conference that he would have looked … [+6506 chars]"
+  },
+  {
+  "source": {
+  "id": "cbc-news",
+  "name": "CBC News"
+  },
+  "author": "CBC News",
+  "title": "Are solar farms really a threat to food farms? | CBC News",
+  "description": "Sprawling solar farms have raised concerns that renewable energy will harm food production in Canada. It's one reason cited by Alberta's government for its pause on renewable energy. It this something we should worry about? Here's a closer look.",
+  "url": "http://www.cbc.ca/news/science/solar-farms-1.7025482",
+  "urlToImage": "https://i.cbc.ca/1.7025513.1699645017!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/alta-solar-20230711.jpg",
+  "publishedAt": "2023-11-12T13:37:21.4486889Z",
+  "content": "Sprawling solar farms have raised concerns that renewable energy will harm food production in Canada including in Alberta, where the province has paused approval of any large wind or solar projects.\r… [+7356 chars]"
+  },
+  {
+  "source": {
+  "id": "cbc-news",
+  "name": "CBC News"
+  },
+  "author": "CBC News",
+  "title": "Scientists warn Earth warming faster than expected — due to reduction in ship pollution | CBC News",
+  "description": "The past five months have shattered global temperature records. A new study led by renowned U.S. climate scientist James Hansen suggests one of the drivers is an unintentional global geoengineering experiment: the reduction of ship tracks.",
+  "url": "http://www.cbc.ca/news/science/marine-clouds-climate-change-1.7016498",
+  "urlToImage": "https://i.cbc.ca/1.5458576.1690830938!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/marine-cloud-brightening.jpg",
+  "publishedAt": "2023-11-12T13:37:20.7818732Z",
+  "content": "The past five months have shattered global temperature records, taking scientists by surprise. Many are asking why.\r\nA new study published in Oxford Open Climate Change\r\n, led by renowned U.S. climat… [+5381 chars]"
+  },
+  {
+  "source": {
+  "id": "cbc-news",
+  "name": "CBC News"
+  },
+  "author": "CBC News",
+  "title": "Heat pump popularity is increasing, but how well do they work on the Prairies? | CBC News",
+  "description": "With no sign of further exemptions to the federal carbon tax, heat pumps have made their way into the energy conversation. But are they a viable heating source for cold Prairie winters?",
+  "url": "http://www.cbc.ca/news/canada/saskatchewan/heat-pumps-prairies-1.7026353",
+  "urlToImage": "https://i.cbc.ca/1.7026481.1699736403!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/catherine-gibson-with-her-heat-pump.jpg",
+  "publishedAt": "2023-11-12T13:37:19.4472214Z",
+  "content": "Catherine Gibson hopes she and her husband can age in place in their south Regina home.\r\nThat's one of the main reasons she installed an air-source heat pump this past summer.\r\n\"I had been hearing ab… [+5872 chars]"
+  },
+  {
+  "source": {
+  "id": "four-four-two",
+  "name": "FourFourTwo"
+  },
+  "author": "Ben Mountain",
+  "title": "'More necessary than ever' – Real Madrid president renews Super League calls",
+  "description": "Florentino Perez criticised the new Champions League format and reiterated his commitment to the ESL at club's AGM on Saturday",
+  "url": "https://www.fourfourtwo.com/news/more-necessary-than-ever-real-madrid-president-renews-super-league-calls",
+  "urlToImage": "https://cdn.mos.cms.futurecdn.net/XzubGrzutnwvXoK3p9wC2B-1200-80.jpg",
+  "publishedAt": "2023-11-12T13:30:14Z",
+  "content": "The European Super League project seemed to fizzle out fast after a fierce backlash followed its announcement in April 2021. Nine clubs withdrew in the aftermath, including each of England’s 'big six… [+2483 chars]"
+  },
+  {
+  "source": {
+  "id": "cbc-news",
+  "name": "CBC News"
+  },
+  "author": "CBC News",
+  "title": "Montreal Jewish school hit by gunfire overnight for 2nd time this week | CBC News",
+  "description": "Police received several calls about gunshots near Yeshiva Gedola of Montreal, located on Deacon Road in the Côte-des-Neiges neighbourhood, at around 5 a.m. Sunday. It's the second time the school was targeted this week.",
+  "url": "http://www.cbc.ca/news/canada/montreal/montreal-jewish-school-gunfire-1.7026640",
+  "urlToImage": "https://i.cbc.ca/1.7026658.1699793276!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/montreal-yeshiva-gedola-of-montreal-shooting.jpeg",
+  "publishedAt": "2023-11-12T13:22:17.7293969Z",
+  "content": "Montreal police are investigating after gunshots were fired at a Jewish school in the city's west end for the second time this week.\r\nPolice say they received several calls about gunshots near Yeshiv… [+1090 chars]"
+  },
+  {
+  "source": {
+  "id": "the-verge",
+  "name": "The Verge"
+  },
+  "author": "David Pierce",
+  "title": "The best apps and tools for managing your money online",
+  "description": "YNAB, Copilot, a new Steam Deck, the Humane AI Pin, music podcasts, Elon Musk, ChatGPT, and more in this week’s Installer newsletter.",
+  "url": "http://www.theverge.com/2023/11/12/23955681/best-apps-online-budget-money-mint-ynab-copilot-steam-deck-humane-ai",
+  "urlToImage": "https://cdn.vox-cdn.com/thumbor/GoOUX3JUoANyHVgoAg6W0i_-DdM=/0x0:3000x2000/1200x628/filters:focal(1500x1000:1501x1001)/cdn.vox-cdn.com/uploads/chorus_asset/file/24844605/Installer_Site_Post_001.jpg",
+  "publishedAt": "2023-11-12T13:00:00Z",
+  "content": "The best apps and tools for managing your money online\r\nThe best apps and tools for managing your money online\r\n / Plus, in this weeks Installer: a new Steam Deck, the Humane AI Pin, music podcasts, … [+15393 chars]"
+  },
+  {
+  "source": {
+  "id": "google-news-uk",
+  "name": "Google News (UK)"
+  },
+  "author": "Sky News",
+  "title": "Indi Gregory: Critically ill baby has life-support treatment withdrawn - Sky News",
+  "description": null,
+  "url": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vbmV3cy5za3kuY29tL3N0b3J5L2luZGktZ3JlZ29yeS1jcml0aWNhbGx5LWlsbC1iYWJ5LWhhcy1saWZlLXN1cHBvcnQtdHJlYXRtZW50LXdpdGhkcmF3bi0xMzAwNjI4NdIBbWh0dHBzOi8vbmV3cy5za3kuY29tL3N0b3J5L2FtcC9pbmRpLWdyZWdvcnktY3JpdGljYWxseS1pbGwtYmFieS1oYXMtbGlmZS1zdXBwb3J0LXRyZWF0bWVudC13aXRoZHJhd24tMTMwMDYyODU?oc=5",
+  "urlToImage": null,
+  "publishedAt": "2023-11-12T12:11:12+00:00",
+  "content": null
+  },
+  {
+  "source": {
+  "id": "google-news-sa",
+  "name": "Google News (Saudi Arabia)"
+  },
+  "author": "Sky News Arabia سكاي نيوز عربية",
+  "title": "المشفى المستهدف.. ماذا يجري في مجمع الشفاء في غزة؟ - Sky News Arabia سكاي نيوز عربية",
+  "description": null,
+  "url": "https://news.google.com/rss/articles/CBMi9wFodHRwczovL3d3dy5za3luZXdzYXJhYmlhLmNvbS9taWRkbGUtZWFzdC8xNjY5NjA3LSVEOCVBNyVEOSU4NCVEOSU4NSVEOCVCNCVEOSU4MSVEOSU4OS0lRDglQTclRDklODQlRDklODUlRDglQjMlRDglQUElRDklODclRDglQUYlRDklODEtJUQ5JThBJUQ4JUFDJUQ4JUIxJUQ5JThBLSVEOSU4NSVEOCVBQyVEOSU4NSVEOCVCOS0lRDglQTclRDklODQlRDglQjQlRDklODElRDglQTclRDglQTEtJUQ4JUJBJUQ4JUIyJUQ4JUE5JUQ4JTlG0gH7AWh0dHBzOi8vd3d3LnNreW5ld3NhcmFiaWEuY29tL2FtcC9taWRkbGUtZWFzdC8xNjY5NjA3LSVEOCVBNyVEOSU4NCVEOSU4NSVEOCVCNCVEOSU4MSVEOSU4OS0lRDglQTclRDklODQlRDklODUlRDglQjMlRDglQUElRDklODclRDglQUYlRDklODEtJUQ5JThBJUQ4JUFDJUQ4JUIxJUQ5JThBLSVEOSU4NSVEOCVBQyVEOSU4NSVEOCVCOS0lRDglQTclRDklODQlRDglQjQlRDklODElRDglQTclRDglQTEtJUQ4JUJBJUQ4JUIyJUQ4JUE5JUQ4JTlG?oc=5",
+  "urlToImage": null,
+  "publishedAt": "2023-11-12T12:10:33+00:00",
+  "content": null
+  },
+  {
+  "source": {
+  "id": "handelsblatt",
+  "name": "Handelsblatt"
+  },
+  "author": null,
+  "title": "+++ Israel-Krieg +++: Israel Armee nennt neues Zeitfenster zur Flucht in den Süden Gazas",
+  "description": "Netanjahu: Hamas hat Kontrolle über Norden des Gazastreifens verloren +++ Erneut Kämpfe rund um das Schifa-Krankenhaus +++ Der Newsblog.",
+  "url": "https://www.handelsblatt.com/politik/international/nahost-israel-armee-nennt-neues-zeitfenster-zur-flucht-in-den-sueden-gazas/29433048.html",
+  "urlToImage": null,
+  "publishedAt": "2023-11-12T11:42:00+00:00",
+  "content": "Netanjahu: Hamas hat Kontrolle über Norden des Gazastreifens verloren +++ Erneut Kämpfe rund um das Schifa-Krankenhaus +++ Der Newsblog."
+  },
+  {
+  "source": {
+  "id": "news-com-au",
+  "name": "News.com.au"
+  },
+  "author": "Andrew McMurtry",
+  "title": "GoT star reveals ‘unbearable loss’",
+  "description": "Former Game of Thrones star and 2018 World’s Strongest Man Hafthor Bjornsson and his fitness model wife Kelsey Henson have revealed the tragic news that their daughter was stillborn.",
+  "url": "https://www.news.com.au/sport/sports-life/got-actor-strongman-hafthor-bjornssons-unbearable-loss/news-story/3c7c2de0740aa012c98b2205559cfcb4",
+  "urlToImage": "https://content.api.news/v3/images/bin/d1c87e92962690233738f0a2bb88460f",
+  "publishedAt": "2023-11-12T11:40:00Z",
+  "content": "Former Game of Thrones star and 2018 World’s Strongest Man Hafthor Bjornsson and his fitness model wife Kelsey Henson have revealed the tragic news that their daughter was stillborn.\r\nThe pair announ… [+3173 chars]"
+  },
+  {
+  "source": {
+  "id": "google-news",
+  "name": "Google News"
+  },
+  "author": "Euronews",
+  "title": "Iceland declares state of emergency over escalating earthquakes and volcano eruption fears - Euronews",
+  "description": null,
+  "url": "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3LmV1cm9uZXdzLmNvbS8yMDIzLzExLzExL2ljZWxhbmQtZGVjbGFyZXMtc3RhdGUtb2YtZW1lcmdlbmN5LW92ZXItZXNjYWxhdGluZy1lYXJ0aHF1YWtlcy1hbmQtdm9sY2Fuby1lcnVwdGlvbi1mZWFyc9IBAA?oc=5",
+  "urlToImage": null,
+  "publishedAt": "2023-11-12T10:55:26+00:00",
+  "content": null
+  },
+  {
+  "source": {
+  "id": "google-news-sa",
+  "name": "Google News (Saudi Arabia)"
+  },
+  "author": "Sky News Arabia سكاي نيوز عربية",
+  "title": "بعد خروجه عن الخدمة.. ماذا يحدث داخل مستشفى القدس بغزة؟ - Sky News Arabia سكاي نيوز عربية",
+  "description": null,
+  "url": "https://news.google.com/rss/articles/CBMiigJodHRwczovL3d3dy5za3luZXdzYXJhYmlhLmNvbS9taWRkbGUtZWFzdC8xNjY5NTk2LSVEOCVBRSVEOCVCMSVEOSU4OCVEOCVBQyVEOSU4Ny0lRDglQTclRDklODQlRDglQUUlRDglQUYlRDklODUlRDglQTktJUQ5JThBJUQ4JUFEJUQ4JUFGJUQ4JUFCLSVEOCVBRiVEOCVBNyVEOCVBRSVEOSU4NC0lRDklODUlRDglQjMlRDglQUElRDglQjQlRDklODElRDklODktJUQ4JUE3JUQ5JTg0JUQ5JTgyJUQ4JUFGJUQ4JUIzLSVEOCVBOCVEOCVCQSVEOCVCMiVEOCVBOSVEOCU5RtIBjgJodHRwczovL3d3dy5za3luZXdzYXJhYmlhLmNvbS9hbXAvbWlkZGxlLWVhc3QvMTY2OTU5Ni0lRDglQUUlRDglQjElRDklODglRDglQUMlRDklODctJUQ4JUE3JUQ5JTg0JUQ4JUFFJUQ4JUFGJUQ5JTg1JUQ4JUE5LSVEOSU4QSVEOCVBRCVEOCVBRiVEOCVBQi0lRDglQUYlRDglQTclRDglQUUlRDklODQtJUQ5JTg1JUQ4JUIzJUQ4JUFBJUQ4JUI0JUQ5JTgxJUQ5JTg5LSVEOCVBNyVEOSU4NCVEOSU4MiVEOCVBRiVEOCVCMy0lRDglQTglRDglQkElRDglQjIlRDglQTklRDglOUY?oc=5",
+  "urlToImage": null,
+  "publishedAt": "2023-11-12T10:17:34+00:00",
+  "content": null
+  },
+  {
+  "source": {
+  "id": "google-news-au",
+  "name": "Google News (Australia)"
+  },
+  "author": "9News",
+  "title": "Man rescued after falling between two buildings on Perth shopping street - 9News",
+  "description": null,
+  "url": "https://news.google.com/rss/articles/CBMikQFodHRwczovL3d3dy45bmV3cy5jb20uYXUvbmF0aW9uYWwvcGVydGgtbmV3cy1tYW4tcmVzY3VlZC1hZnRlci1mYWxsaW5nLWJldHdlZW4tdHdvLWJ1aWxkaW5ncy1vbi1wZXJ0aC1zdHJlZXQvOTI3OWM4ZmQtMGU2Yi00ZTAxLTk5NWMtZGIwNjYyNmIwZDY50gFFaHR0cHM6Ly9hbXAuOW5ld3MuY29tLmF1L2FydGljbGUvOTI3OWM4ZmQtMGU2Yi00ZTAxLTk5NWMtZGIwNjYyNmIwZDY5?oc=5",
+  "urlToImage": null,
+  "publishedAt": "2023-11-12T10:02:20+00:00",
+  "content": null
+  },
+  {
+  "source": {
+  "id": "cbc-news",
+  "name": "CBC News"
+  },
+  "author": "CBC News",
+  "title": "Rafah border crossing into Egypt to reopen Sunday, Gaza authorities say | CBC News",
+  "description": "Authorities in the Gaza Strip say the Rafah land crossing between the war-torn territory and Egypt will reopen on Sunday after being closed for the two previous days.",
+  "url": "http://www.cbc.ca/news/world/rafah-border-crossing-reopens-1.7026607",
+  "urlToImage": "https://i.cbc.ca/1.7026610.1699758089!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/1756860511.jpg",
+  "publishedAt": "2023-11-12T09:52:17.0732542Z",
+  "content": "Authorities in the Gaza Strip say the Rafah land crossing between the war-torn territory and Egypt will reopen on Sunday after being closed for the two previous days.\r\nThe announcement was shared on … [+815 chars]"
+  },
+  {
+  "source": {
+  "id": "nbc-news",
+  "name": "NBC News"
+  },
+  "author": "NBC News",
+  "title": "Israel-Hamas war live updates: WHO loses contact with Al-Shifa hospital in Gaza",
+  "description": "Follow NBC News' coverage for live updates about the Israel-Hamas war: WHO loses contact with Gaza's main hospital, at-risk babies begin to die as power shuts off.",
+  "url": "https://www.nbcnews.com/news/world/live-blog/israel-hamas-war-live-updates-gaza-al-shifa-hospital-palestinians-rcna124785",
+  "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-11/231112-gaza-al-shifa-aa-c449b9.jpg",
+  "publishedAt": "2023-11-12T09:28:57Z",
+  "content": "TEL AVIV  The Israel Defense Forces said the military will facilitate evacuation routes from three hospitals in Gaza City Al-Shifa, Al-Rantisi and Al-Nasr hospitals so that those inside can move sout… [+5069 chars]"
+  },
+  {
+  "source": {
+  "id": "cbc-news",
+  "name": "CBC News"
+  },
+  "author": "CBC News",
+  "title": "What would it take for Canada to hit its climate targets? | CBC News",
+  "description": "Canadians received a jarring reality check on Tuesday when the environment commissioner released his audit of the federal government's emissions reduction plan.",
+  "url": "http://www.cbc.ca/news/politics/climate-change-emissions-oil-gas-trudeau-1.7025798",
+  "urlToImage": "https://i.cbc.ca/1.6397815.1699655046!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/cda-earth-day-photo-gallery-20210422.jpg",
+  "publishedAt": "2023-11-12T09:07:18.1983527Z",
+  "content": "Canadians received a jarring reality check on Tuesday when the environment commissioner released his audit of the federal government's emissions reduction plan.\r\nOne of the negative nuggets emerging … [+4563 chars]"
+  }
+  ]
+  }
