@@ -1,52 +1,45 @@
-import React from 'react'
-import { Link } from 'react-router-dom'
+import Container from 'react-bootstrap/Container';
+import Nav from 'react-bootstrap/Nav';
+import Navbar from 'react-bootstrap/Navbar';
+import { Link } from 'react-router-dom';
 
-function Navbar(props) {
+function BasicExample() {
   return (
-    <div>
-      <nav className="navbar navbar-expand-lg bg-dark ">
-  <div className="container-fluid ">
-   <Link to="/"> <img src="NewsCurry logoo.png" alt="logo" width="140" height="32"/></Link>
-    <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-      <span className="navbar-toggler-icon"></span>
-    </button>
-    <div className="collapse navbar-collapse " id="navbarSupportedContent ">
-      <ul className="navbar-nav me-auto mb-2 mb-lg-0 ">
-        <li className="nav-item">
-          <Link className="nav-link text-light" aria-current="page" to="/">Home</Link>
+    <Navbar expand="lg" className="bg-warning">
+      <Container>
+      <Link to="/"> <img src="NewsCurry logoo.png" alt="logo" width="140" height="32"/></Link>
+        <Navbar.Toggle aria-controls="basic-navbar-nav" />
+        <Navbar.Collapse id="basic-navbar-nav">
+          <Nav className="me-auto">
+          <li className="nav-item">
+          <Link className="nav-link text-dark" aria-current="page" to="/">Home</Link>
         </li>
         <li className="nav-item">
-          <Link className="nav-link text-light" to="/business">Business</Link>
+          <Link className="nav-link text-dark" to="/business">Business</Link>
         </li>
         <li className="nav-item">
-          <Link className="nav-link text-light" to="/entertainment">Entertainment</Link>
+          <Link className="nav-link text-dark" to="/entertainment">Entertainment</Link>
         </li>
         <li className="nav-item">
-          <Link className="nav-link text-light" to="/general">General</Link>
+          <Link className="nav-link text-dark" to="/general">General</Link>
         </li>
         <li className="nav-item">
-          <Link className="nav-link text-light" to="/health">Health</Link>
+          <Link className="nav-link text-dark" to="/health">Health</Link>
         </li>
         <li className="nav-item">
-          <Link className="nav-link text-light" to="/science">Science</Link>
+          <Link className="nav-link text-dark" to="/science">Science</Link>
         </li>
         <li className="nav-item">
-          <Link className="nav-link text-light" to="/sports">Sports</Link>
+          <Link className="nav-link text-dark" to="/sports">Sports</Link>
         </li>
         <li className="nav-item">
-          <Link className="nav-link text-light" to="/technology">Technology</Link>
+          <Link className="nav-link text-dark" to="/technology">Technology</Link>
         </li>
-      </ul>
-    </div>
-  </div>
-</nav>
-    </div>
-  )
+          </Nav>
+        </Navbar.Collapse>
+      </Container>
+    </Navbar>
+  );
 }
 
-Navbar.propTypes = {
-
-}
-
-export default Navbar
-
+export default BasicExample;

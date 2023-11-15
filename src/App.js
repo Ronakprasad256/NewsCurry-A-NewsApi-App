@@ -9,8 +9,8 @@ import Footer from './components/Footer';
 export default class App extends Component {
   render() {
     return (
-      <>
-        <Navbar />
+      <div>
+        <Navbar fixed="top"/>
         <Routes>
         <Route
             path="/"
@@ -54,7 +54,7 @@ export default class App extends Component {
           />
         </Routes>
         <Footer/>
-      </>
+      </div>
     );
   }
 }
