@@ -3,9 +3,10 @@ import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
 import { Link } from 'react-router-dom';
 
-function BasicExample() {
+const NavBar = () => {
+
   return (
-    <Navbar expand="lg" className="bg-warning">
+    <Navbar expand="lg fixed-top" className="bg-warning">
       <Container>
       <Link to="/"> <img src="NewsCurry logoo.png" alt="logo" width="140" height="32"/></Link>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
@@ -19,9 +20,6 @@ function BasicExample() {
         </li>
         <li className="nav-item">
           <Link className="nav-link text-dark" to="/entertainment">Entertainment</Link>
-        </li>
-        <li className="nav-item">
-          <Link className="nav-link text-dark" to="/general">General</Link>
         </li>
         <li className="nav-item">
           <Link className="nav-link text-dark" to="/health">Health</Link>
@@ -42,4 +40,4 @@ function BasicExample() {
   );
 }
 
-export default BasicExample;
+export default NavBar;
